@@ -34,5 +34,5 @@ def square_root(num)
   
  integer.sqrt(num)
  
-   
+   Math.sqrt
 end
