@@ -32,9 +32,8 @@ end
 
 def square_root(num)
   
- x = integer.sqrt(num)
+ integer.sqrt(num)
  
- return x 
    
 
 end
