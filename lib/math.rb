@@ -32,7 +32,7 @@ end
 
 def square_root(num)
   
- x = integernum
+ x = integer.sqrtnum
  
  return x 
    
